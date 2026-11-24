@@ -51,5 +51,22 @@
     "phone": "0525914007",
     "link": "https://tgsofts.github.io/ai-text-cleaner"
   }
+,
+{
+    "icon": "💐",
+    "caption": "ממציא הסיסמאות",
+    "catchPhrase": "בדיוק כמו שזה נשמע",
+    "phone": "0525914007",
+    "link": "https://tgsofts.github.io/password-generator"
+  }
+,
+{
+    "icon": "💐",
+    "caption": "מנקה התמונות",
+    "catchPhrase": "בדיוק כמו שזה נשמע",
+    "phone": "0525914007",
+    "link": "https://tgsofts.github.io/screenshot-blur"
+  }
+
 
 ]
